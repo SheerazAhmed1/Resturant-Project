@@ -21,5 +21,7 @@ On the left side there is a name java build path click it
 You will see a tab named libraries click on it if it is not clicked already.
 On the right ther is button (add external jars) click it 
 It will ask you to give location of file now give it the loaction of sqljdbc which you have extracted already on instrunction line 8,9,10 on this page.
-
+After doing it click apply and close.
+Last thing is remaining to run this project is to load the database in Microsoft SQl Server Management Studio
+I have aded the spreadsheet name resturant in project folder
 
