@@ -23,6 +23,14 @@ On the right ther is button (add external jars) click it
 It will ask you to give location of file now give it the loaction of sqljdbc which you have extracted already on instrunction line 8,9,10 on this page.
 After doing it click apply and close.
 Last thing is remaining to run this project is to load the database in Microsoft SQl Server Management Studio.
+First you have to connect to sqlexpress server using windows authentication.
+Then go to file tab then click open then click  file and give it the location of database file which is .sql file.
+now the query file will be opened.
+Now go ahead and click alt+x which will execute it there is also a execute button
+in 3rd row on the at the top of application.Now last thing go and right click on databses option on left side
+and at down in list there refresh option click it and the database will appear in databases section in order to see it you have
+to expand the databases and you can do it by clicking + sign.
+
 
 
 
