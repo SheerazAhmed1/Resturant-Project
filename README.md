@@ -30,7 +30,7 @@ Now go ahead and click alt+x which will execute it there is also a execute butto
 in 3rd row on the at the top of application.Now last thing go and right click on databses option on left side
 and at down in list there refresh option click it and the database will appear in databases section in order to see it you have
 to expand the databases and you can do it by clicking + sign.
-
+Now go back to eclipse and expand the project by clicking the arrow"greater than"sign and expand the src file also by clicking that arrow then double click the gui file.double click the loginform.java file and run it by clicking the play button aor u can also do that by pressing ctrl + F11.After that the program will be opened to run it.
 
 
 
